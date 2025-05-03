@@ -65,11 +65,3 @@ We experiment with medical datasets such as:
 - AI could serve as a **first-line diagnostic aid**, especially in underserved areas.
 - CLIP offers a **flexible, generalizable baseline** — without retraining from scratch.
 
----
-
-## 🤝 Contribute
-
-Interested in medical AI, VLMs, or prompt engineering? Jump in! You can:
-
-- Improve dataset handling 📂
-- Visualize results 📊
